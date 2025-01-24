@@ -1,5 +1,5 @@
 # Vehicle Management System (VMS) User Manual
-# Table of Contents
+#  Contents
 1.	Introduction
 2.	System Requirements
 3.	Installation
